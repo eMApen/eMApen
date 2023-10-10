@@ -2,7 +2,7 @@
 - 👀 I’m interested in almost everything.
 - 🌱 I’m currently learning telecommunication in XDU.
 - 💞️ I’m looking to collaborate on .
-- 📫 penny.e@qq.com or ne0emap@gamil.com
+- 📫 penny.e@qq.com or ne0emap@gmail.com
 
 <!---
 eMApen/eMApen is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
