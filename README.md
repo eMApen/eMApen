@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Penny E (Master Shark)
 - 👀 I’m interested in almost everything.
 - 🌱 I’m currently learning telecommunication in XDU.
-- 💞️ I’m looking to collaborate on .
+- 💞️ I’m working for [15zk](https://www.15zk.net/) right now.
 - 📫 penny.e@qq.com or ne0emap@gmail.com
 
 <!---
